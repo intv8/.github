@@ -15,7 +15,7 @@ body:
   - type: markdown
     attributes:
       value: "
-        **DO NOT* report security-related issues here. For security-related
+        🚨 **DO NOT** report security-related issues here. For security-related
         issues, please report those privately following our
         [security policy](https://github.com/partic11e/.github/security/policy).
        "
