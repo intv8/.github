@@ -31,8 +31,8 @@ body:
       placeholder: >
         Explain how the documentation issue could be fixed. Be as clear and
         detailed as possible. Those writing the documentation are often the
-        one's writing the code and, due to their intimate understanding of the 
-        features and functionality, may not see things from the view of the 
+        one's writing the code and, due to their intimate understanding of the
+        features and functionality, may not see things from the view of the
         documentation's target audience.
   - type: markdown
     attributes:
