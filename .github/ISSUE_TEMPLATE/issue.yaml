@@ -59,7 +59,7 @@ body:
       label: OS information
       description: What operating system, version, and architecture is used?
       placeholder: "
-        Linux - [cat /etc/os-release && uname -a]
+        Linux - [cat /etc/os-release && uname -a] \n
         Windows - [wmic os get Caption, Version, BuildNumber, OSArchitecture]
         "
   - type: input
