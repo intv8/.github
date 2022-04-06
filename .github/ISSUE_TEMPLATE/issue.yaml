@@ -73,11 +73,11 @@ body:
   - type: markdown
     attributes:
       value: "
-        > You can find this information in the `VERSION` export of the module's root `mod.ts`.
-        >
-        > ```
-        > import { VERSION } from \"https://deno.pkg/partic11e/common/mod.ts\"
-        > ```
+        You can find this information in the `VERSION` export of the module's root `mod.ts`.
+        
+        ```ts
+        import { VERSION } from \"https://deno.pkg/partic11e/common/mod.ts\"
+        ```
         "
   - type: markdown
     attributes:
