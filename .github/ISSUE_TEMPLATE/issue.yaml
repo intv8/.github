@@ -48,6 +48,7 @@ body:
     attributes:
       value: >
         ## Environment details
+        
         Development environments differ between developers.  
         These final fields help us re-create your environment in the event we are unable to reproduce the issue in ours.
   - type: markdown
