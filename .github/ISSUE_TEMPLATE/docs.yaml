@@ -1,5 +1,5 @@
 name: Documentation issue report
-description: Report an issue with partc11e code.
+description: Report an issue with documentation.
 title: "📚 Docs issues report: "
 labels: ["type: docs"]
 body:
@@ -39,4 +39,4 @@ body:
       value: <br />
   - type: markdown
     attributes:
-      value: By submitting this issue, I am contributing to the project and agree to follow this project's [Code of Conduct](https://github.com/partic11e/.github/blob/main/.github/CODE_OF_CONDUCT.md).
+      value: "By submitting this issue, I am contributing to this project and agree to follow its [Code of Conduct](https://github.com/partic11e/.github/blob/main/.github/CODE_OF_CONDUCT.md)."
