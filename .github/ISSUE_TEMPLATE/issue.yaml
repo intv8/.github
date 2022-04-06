@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: "
-        <img src='https://avatars.githubusercontent.com/u/89670397?s=400' align='left' width='80' height ='80' />
+        <img src='https://avatars.githubusercontent.com/u/89670397?s=400' align='left' width='60' height ='60' />
         Thank you for reporting a documentation issue!
 
         All efforts to improve partic11e libraries are greatly appreciated.
