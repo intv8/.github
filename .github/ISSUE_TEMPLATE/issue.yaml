@@ -22,13 +22,11 @@ body:
       label: How should we resolve the documentation issue?
   - type: textarea
     attributes:
-      id: reproduction
       label: Steps to reproduce the issue
       description: What are the steps we can follow to reproduce the issue?
       placeholder: Provide a step-by-step case of how we can reproduce the issue. Be as detailed and clear as possible.
   - type: input
     attributes:
-      id: pkgv
       label: Package version
       description: What version of this partic11e module has the documentation issue?
       placeholder: >
