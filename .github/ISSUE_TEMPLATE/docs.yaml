@@ -1,5 +1,5 @@
 name: Documentation issue report
-description: Report an issue with documentation.
+description: Report an issue with documentation
 title: "📚 Docs issues report: "
 labels: ["type: docs"]
 body:
