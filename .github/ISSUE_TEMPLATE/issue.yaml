@@ -1,5 +1,5 @@
 name: Issue report
-description: Report an issue with code.
+description: Report an issue with code
 title: "🧰 Issue report: "
 labels: ["type: issue"]
 body:
