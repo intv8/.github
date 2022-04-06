@@ -27,10 +27,10 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: 
-      description: Describe your expectations
+      label: Describe your expectations
+      description: Describe what you expected to happen.
       placeholder: >
-        Explain why you believe the behavior is anomalous.
+        Explain why you believe the behavior is anomalous. Include logs and/or fils that you feel may help achieve a speedy resolution.
     validations:
       required: true
   - type: textarea
@@ -55,7 +55,6 @@ body:
       value: <br />
   - type: textarea
     attributes:
-      id: os
       label: OS information
       description: What operating system, version, and architecture is used?
       placeholder: "
@@ -64,17 +63,12 @@ body:
         "
   - type: input
     attributes:
-      id: pkgv
       label: Package version
       description: What version of this partic11e module is being used?
   - type: input
     attributes:
-      id: denov
       label: Deno version
       description: What version of Deno are you using?
-  - type: markdown
-    attributes:
-      value: <br />
   - type: markdown
     attributes:
       value: "
@@ -84,9 +78,6 @@ body:
         > import { VERSION } from \"https://deno.pkg/partic11e/common/mod.ts\"
         > ```
         "
-  - type: markdown
-    attributes:
-      value: <br />
   - type: markdown
     attributes:
       value: <br />
