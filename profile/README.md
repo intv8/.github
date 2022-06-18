@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="partic11e logo" height="70" src="https://github.com/partic11e/.github/blob/main/profile/p11-banner.png" />
+  <img alt="partic11e logo" height="70" src="https://github.com/partic11e/.github/blob/main/profile/banner.png" />
 </p>
 
 <p align="center">
