@@ -21,10 +21,10 @@ Contributions are welcome! Take a look at our [contributing guidelines][contribu
 
 <p align="center">
   <a href="https://github.com/i11n">
-    <img alt="Built with love by IntegerEleven" src="https://img.shields.io/badge/built%20with%20%E2%9D%A4%20-i11n-03738C?style=for-the-badge" />
+    <img alt="Built with love by IntegerEleven" src="https://img.shields.io/badge/built%20with%20%E2%9D%A4%20-i11n-585CA6?style=for-the-badge" />
   </a>
   <a href="https://github.com/i11n">
-    <img alt="Build everything" src="https://img.shields.io/badge/BUILD-EVERYTHING-DE492E?style=for-the-badge" />
+    <img alt="Build everything" src="https://img.shields.io/badge/BUILD-EVERYTHING-F26052?style=for-the-badge" />
   </a>
 </p>
 
