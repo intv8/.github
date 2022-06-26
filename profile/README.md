@@ -2,13 +2,13 @@
   <img
     alt="partic11e logo"
     height="70"
-    src="https://github.com/pratic11e/.github/blob/main/profile/p11/logotype.svg"
+    src="https://github.com/partic11e/.github/blob/main/profile/p11/logotype.svg"
   />
   <span style="color: #bbbbbb">by
     <img
       alt="integer11 logo"
       height="16"
-      src="https://github.com/pratic11e/.github/blob/main/profile/i11n/logotype.svg"
+      src="https://github.com/partic11e/.github/blob/main/profile/i11n/logotype.svg"
       style="vertical-align: middle" />
   </span>
 </p>
@@ -53,4 +53,3 @@ Contributions are welcome! Review a repository's README.md file to get started.
 [deno]: https://deno.land
 <!--Eventually change this to integer11.com -->
 [i11n]: https://github.com/i11n
-[contributing]: https://github.com/partic11e/.github/blob/main/.github/CONTRIBUTING.md
