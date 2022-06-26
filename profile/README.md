@@ -2,15 +2,8 @@
   <img
     alt="partic11e logo"
     height="70"
-    src="https://github.com/partic11e/.github/blob/main/profile/p11/logotype.svg"
+    src="./p11/logotype.svg"
   />
-  <span style="color: #bbbbbb">by
-    <img
-      alt="integer11 logo"
-      height="16"
-      src="https://github.com/partic11e/.github/blob/main/profile/i11n/logotype.svg"
-      style="vertical-align: middle" />
-  </span>
 </p>
 
 <p align="center">
