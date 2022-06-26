@@ -2,7 +2,7 @@
   <img
     alt="partic11e logo"
     height="70"
-    src="./p11/logotype.svg"
+    src="https://github.com/partic11e/.github/blob/main/profile/p11/logotype.svg"
   />
 </p>
 
