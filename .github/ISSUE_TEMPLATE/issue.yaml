@@ -69,9 +69,10 @@ body:
       description: What version of this partic11e module is being used?
   - type: markdown
     attributes:
-      value: "This can be found where you did the import/re-export of the package.\n
-      https://denopkg.com/partic11e/*packageName*@**version**/mod.ts\n\n
-      If no version is specified, use "latest".
+      value: "
+        This can be found where you did the import/re-export of the package.\n
+        https://denopkg.com/partic11e/*packageName*@**version**/mod.ts\n\n
+        If no version is specified, use \"latest\".
         "
   - type: markdown
     attributes:

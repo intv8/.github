@@ -46,7 +46,7 @@ Contributions are welcome! Review a repository's README.md file to get started.
 ## Packages
 | Package | Links | Description |
 | ------- | ---- | ----------- |
-| common | [GitHub][p11-common-gh] &nbsp; [Docs][p11-common-docs] | |
+| internal | [GitHub][p11-internal-gh] &nbsp; [Docs][p11-internal-docs] | mommon internal types and features used by other partic11e packages |
 
 <p align="center">
   <img
@@ -60,5 +60,5 @@ Contributions are welcome! Review a repository's README.md file to get started.
 
 [deno]: https://deno.land "Deno: A fast, modern, secure runtime for the web"
 [i11n]: https://integer11.org "integer11 home"
-[p11-common-gh]: https://github.com/partic11e/common "partic11e/common on GitHub"
-[p11-common-docs]: https://docs.integer11.com/partic11e/common "partic11e/common documentation"
+[p11-internal-gh]: https://github.com/partic11e/internal "partic11e/internal on GitHub"
+[p11-internal-docs]: https://docs.integer11.com/partic11e/internal "partic11e/internal documentation"
