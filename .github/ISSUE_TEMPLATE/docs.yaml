@@ -6,10 +6,10 @@ body:
   - type: markdown
     attributes:
       value: "
-        <img src='https://avatars.githubusercontent.com/u/89670397?s=400' align='left' width='40' height ='40' />
+        <img src='https://raw.githubusercontent.com/partic11e/.github/main/profile/img/logo.svg' align='left' width='40' height ='40' />
         Thank you for reporting a documentation issue!
 
-        All efforts to improve partic11e libraries are greatly appreciated.
+        All efforts to improve partic11e are greatly appreciated.
 
         <br clear='left' />"
   - type: textarea
@@ -17,10 +17,9 @@ body:
       label: Describe the documentation issue
       description: Please describe the issue you found in the documentation.
       placeholder: >
-        Explain where the issue is and why you believe it is an issue. Include
-        URLs to the problem documentation and/or provide screenshots
-        identifying the issue. Be sure that you are looking at the
-        documentation from the view of the documentation's target audience.
+        Explain the issue and why you believe it is an issue. Include a link to
+        the documentation, and provide screenshots if possible. Be sure you are
+        reviewing the documentation from the perspective of the target audience.
 
     validations:
       required: true
@@ -31,15 +30,15 @@ body:
       placeholder: >
         Explain how the documentation issue could be fixed. Be as clear and
         detailed as possible. Those writing the documentation are often the
-        one's writing the code and, due to their intimate understanding of the
+        ones writing the code and, due to their intimate understanding of the
         features and functionality, may not see things from the view of the
-        documentation's target audience.
+        target audience.
   - type: markdown
     attributes:
       value: <br />
   - type: markdown
     attributes:
-      value: "By submitting this issue, I am contributing to this project and agree to follow its [Code of Conduct](https://github.com/partic11e/.github/blob/main/.github/CODE_OF_CONDUCT.md)."
+      value: "By submitting this issue, I understand that I am contributing to this project and agree to follow its [Code of Conduct](https://github.com/partic11e/.github/blob/main/.github/CODE_OF_CONDUCT.md)."
   - type: markdown
     attributes:
       value: If you have corrected the documentation yourself, you can submit a pull request immediately after you submit this documentation issue report.

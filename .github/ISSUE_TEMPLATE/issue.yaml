@@ -6,10 +6,10 @@ body:
   - type: markdown
     attributes:
       value: "
-        <img src='https://avatars.githubusercontent.com/u/89670397?s=400' align='left' width='40' height ='40' />
+        <img src='https://raw.githubusercontent.com/i11n/.github/main/profile/img/logo.svg' align='left' width='40' height ='40' />
         Thank you for reporting an issue!
 
-        All efforts to improve partic11e libraries are greatly appreciated.
+        All efforts to improve partic11e are greatly appreciated.
 
         <br clear='left' />"
   - type: markdown
@@ -69,10 +69,9 @@ body:
       description: What version of this partic11e module is being used?
   - type: markdown
     attributes:
-      value: "
-        You can find this information in the `VERSION` export of the module's root `mod.ts`.
-        
-        `import { VERSION } from \"https://deno.pkg/partic11e/common/mod.ts\";`
+      value: "This can be found where you did the import/re-export of the package.\n
+      https://denopkg.com/partic11e/*packageName*@**version**/mod.ts\n\n
+      If no version is specified, use "latest".
         "
   - type: markdown
     attributes:
@@ -84,7 +83,7 @@ body:
       placeholder: "[deno --version]"
   - type: markdown
     attributes:
-      value: "By submitting this issue, I am contributing to this project and agree to follow its [Code of Conduct](https://github.com/partic11e/.github/blob/main/.github/CODE_OF_CONDUCT.md)."
+      value: "By submitting this issue, I understand that I am contributing to this project and agree to follow its [Code of Conduct](https://github.com/partic11e/.github/blob/main/.github/CODE_OF_CONDUCT.md)."
   - type: markdown
     attributes:
       value: If you have corrected the issue yourself, you can submit a pull request immediately after you submit this issue report.
