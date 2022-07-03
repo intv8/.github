@@ -46,7 +46,8 @@ Contributions are welcome! Review a repository's README.md file to get started.
 ## Packages
 | Package | Links | Description |
 | ------- | ---- | ----------- |
-| internal | [GitHub][p11-internal-gh] &nbsp; [Docs][p11-internal-docs] | mommon internal types and features used by other partic11e packages |
+| internal | [GitHub][p11-internal-gh] &nbsp; [Docs][p11-internal-docs] | common types and features used internally by other partic11e packages |
+| common | [GitHub][p11-common-gh] &nbsp; [Docs][p11-common-docs] | common types and features for developing with and within partic11e |
 
 <p align="center">
   <img
@@ -62,3 +63,5 @@ Contributions are welcome! Review a repository's README.md file to get started.
 [i11n]: https://integer11.org "integer11 home"
 [p11-internal-gh]: https://github.com/partic11e/internal "partic11e/internal on GitHub"
 [p11-internal-docs]: https://docs.integer11.com/partic11e/internal "partic11e/internal documentation"
+[p11-common-gh]: https://github.com/partic11e/common "partic11e/common on GitHub"
+[p11-common-docs]: https://docs.integer11.com/partic11e/common "partic11e/common documentation"
