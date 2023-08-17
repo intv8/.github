@@ -46,8 +46,10 @@ Contributions are welcome! Review a repository's README.md file to get started.
 ## Packages
 | Package | Links | Description |
 | ------- | ---- | ----------- |
-| internal | [GitHub][p11-internal-gh] &nbsp; [Docs][p11-internal-docs] | common types and features used internally by other partic11e packages |
-| common | [GitHub][p11-common-gh] &nbsp; [Docs][p11-common-docs] | common types and features for developing with and within partic11e |
+| common-types | [GitHub][p11-core-types-gh] | Commonly used types for the partic11e library. |
+| common-exceptions | [GitHub][p11-core-exceptions-gh] | Commonly used exceptions for the partic11e library. |
+| warn | [GitHub][p11-warn-gh] | Utilities and warnings for tracking of application issues. |
+| dispose | [GitHub][p11-dispose-gh] | Utility and features for creating and managing disposable objects. |
 
 <p align="center">
   <img
@@ -60,8 +62,8 @@ Contributions are welcome! Review a repository's README.md file to get started.
 
 
 [deno]: https://deno.land "Deno: A fast, modern, secure runtime for the web"
-[i11n]: https://integer11.org "integer11 home"
-[p11-internal-gh]: https://github.com/partic11e/internal "partic11e/internal on GitHub"
-[p11-internal-docs]: https://docs.integer11.org/partic11e/internal "partic11e/internal documentation"
-[p11-common-gh]: https://github.com/partic11e/common "partic11e/common on GitHub"
-[p11-common-docs]: https://docs.integer11.org/partic11e/common "partic11e/common documentation"
+[i11n]: https://github.com/i11n "integer11 home"
+[p11-core-types-gh]: https://github.com/partic11e/core-types "partic11e/core-types on GitHub"
+[p11-core-exceptions-gh]: https://github.com/partic11e/core-exceptions "partic11e/core-exceptions on GitHub"
+[p11-warn-gh]: https://github.com/partic11e/warn "partic11e/warn on GitHub"
+[p11-dispose-gh]: https://github.com/partic11e/dispose "partic11e/dispose on GitHub"
