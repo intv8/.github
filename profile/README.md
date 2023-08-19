@@ -46,10 +46,10 @@ Contributions are welcome! Review a repository's README.md file to get started.
 ## Packages
 | Package | Links | Description |
 | ------- | ---- | ----------- |
-| common-types | [GitHub][p11-core-types-gh] | Commonly used types for the partic11e library. |
-| common-exceptions | [GitHub][p11-core-exceptions-gh] | Commonly used exceptions for the partic11e library. |
-| warn | [GitHub][p11-warn-gh] | Utilities and warnings for tracking of application issues. |
-| dispose | [GitHub][p11-dispose-gh] | Utility and features for creating and managing disposable objects. |
+| common-types | [GitHub][p11-core-types-gh] &nbsp;&middot;&nbsp; [Docs][p11-core-types-dt] | Commonly used types for the partic11e library. |
+| common-exceptions | [GitHub][p11-core-exceptions-gh] &nbsp;&middot;&nbsp; [Docs][p11-core-exceptions-dt] | Commonly used exceptions for the partic11e library. |
+| warn | [GitHub][p11-warn-gh] &nbsp;&middot;&nbsp; [Docs][p11-warn-dt] | Utilities and warnings for tracking of application issues. |
+| dispose | [GitHub][p11-dispose-gh] &nbsp;&middot;&nbsp; [Docs][p11-dispose-dt] | Utility and features for creating and managing disposable objects. |
 
 <p align="center">
   <img
@@ -64,6 +64,10 @@ Contributions are welcome! Review a repository's README.md file to get started.
 [deno]: https://deno.land "Deno: A fast, modern, secure runtime for the web"
 [i11n]: https://github.com/i11n "integer11 home"
 [p11-core-types-gh]: https://github.com/partic11e/core-types "partic11e/core-types on GitHub"
+[p11-core-types-dt]: https://doc.deno.land/https://denopkg.com/partic11e/core-types@dev/mod.ts "Temporary partic11e/core-exception docs"
 [p11-core-exceptions-gh]: https://github.com/partic11e/core-exceptions "partic11e/core-exceptions on GitHub"
+[p11-core-exceptions-dt]: https://doc.deno.land/https://denopkg.com/partic11e/core-exceptions@dev/mod.ts "Temporary partic11e/core-exceptions docs"
 [p11-warn-gh]: https://github.com/partic11e/warn "partic11e/warn on GitHub"
+[p11-warn-dt]: https://doc.deno.land/https://denopkg.com/partic11e/warn@dev/mod.ts "Temporary partic11e/warn docs"
 [p11-dispose-gh]: https://github.com/partic11e/dispose "partic11e/dispose on GitHub"
+[p11-dispose-dt]: https://doc.deno.land/https://denopkg.com/partic11e/dispose@dev/mod.ts "Temporary partic11e/dispose docs"
