@@ -46,8 +46,8 @@ Contributions are welcome! Review a repository's README.md file to get started.
 ## Packages
 | Package | Links | Description |
 | ------- | ---- | ----------- |
-| common-types | [GitHub][p11-core-types-gh] &nbsp;&middot;&nbsp; [Docs][p11-core-types-dt] | Commonly used types for the partic11e library. |
-| common-exceptions | [GitHub][p11-core-exceptions-gh] &nbsp;&middot;&nbsp; [Docs][p11-core-exceptions-dt] | Commonly used exceptions for the partic11e library. |
+| core-types | [GitHub][p11-core-types-gh] &nbsp;&middot;&nbsp; [Docs][p11-core-types-dt] | Commonly used types for the partic11e library. |
+| core-exceptions | [GitHub][p11-core-exceptions-gh] &nbsp;&middot;&nbsp; [Docs][p11-core-exceptions-dt] | Commonly used exceptions for the partic11e library. |
 | warn | [GitHub][p11-warn-gh] &nbsp;&middot;&nbsp; [Docs][p11-warn-dt] | Utilities and warnings for tracking of application issues. |
 | dispose | [GitHub][p11-dispose-gh] &nbsp;&middot;&nbsp; [Docs][p11-dispose-dt] | Utility and features for creating and managing disposable objects. |
 
